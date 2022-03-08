@@ -1,4 +1,6 @@
 # 독서 기록
+**tags** : #📔Book 
+
 ## 상태별
 ```dataview
 TABLE without id

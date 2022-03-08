@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#✏️",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16722217
       }
+    },
+    {
+      "query": "tag:#📔Book",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10.7692307692308,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3823010968770044,
-  "close": true
+  "scale": 0.3823010968770071,
+  "close": false
 }

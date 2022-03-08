@@ -4,6 +4,8 @@ kanban-plugin: basic
 
 ---
 
+**tags** : #📌 
+
 ## Learning
 
 - [ ] [[배포]]
