@@ -13,5 +13,8 @@
   "highlightr-plugin",
   "obsidian-git",
   "sliding-panes-obsidian",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-outliner",
+  "cm-editor-syntax-highlight-obsidian",
+  "tag-wrangler"
 ]

@@ -1,14 +1,19 @@
 ---
-type : [[books]]
-rate : 
+type: books
+title: <% tp.file.title %>
+author: 
+cover_url: 
+status: 
+start_read_date: 
+finish_read_date: 
+rate: 
 ---
 
-created : {{date}} {{time}}
-tags : #📔 
-book : {{title}}
-author : 
+# [[Books]]
+created : <% tp.file.creation_date() %>
+tags : #📔Book 
 
-# {{title}} Overview
+# <% tp.file.title %> Overview
 
 
 # Conclusion
