@@ -17,6 +17,19 @@
         }
       },
       {
+        "id": "f04e689b8fc821d6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
         "id": "7b855c1f270450da",
         "type": "leaf",
         "state": {
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/kanban detail/AI-NLP.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,17 +231,17 @@
     "direction": "horizontal",
     "width": 271
   },
-  "active": "7b855c1f270450da",
+  "active": "f04e689b8fc821d6",
   "lastOpenFiles": [
-    "notes/kanban detail/AI-NLP.md",
+    "README.md",
     "notes/TIL/2022-03-08.md",
+    "notes/kanban detail/AI-NLP.md",
     "notes/TIL list.md",
     "notes/AI/Image Detection.md",
     "notes/kanban detail/AI-image.md",
     "notes/AI/Review - YOLO.md",
     "notes/AI/Paper - YOLO.md",
     "templates/PDF annotation.md",
-    "notes/AI/files/You Only Loock Once.pdf",
-    "notes/AI/Image Captioning.md"
+    "notes/AI/files/You Only Loock Once.pdf"
   ]
 }

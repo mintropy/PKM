@@ -1,0 +1,5 @@
+# PKM(Personal Knowledge Management)
+- **Obsidian.md** 로 작성되었습니다.
+- 개인 지식 보관소
+	- TIL
+	- 공부 내용 정리
