@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "edaf02ff90737dc9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/TIL Note.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e26c9ff6de4e331b",
+        "id": "0566dfad82f9fdbf",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -26,6 +13,85 @@
             "mode": "source",
             "backlinks": false,
             "source": true
+          }
+        }
+      },
+      {
+        "id": "7b855c1f270450da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/kanban detail/AI-NLP.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "492567da92fc9250",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/AI/Image Detection.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a906005624f7a203",
+        "type": "split",
+        "children": [
+          {
+            "id": "3936d394b792113b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "notes/TIL list.md"
+              }
+            }
+          },
+          {
+            "id": "e95f6a6f37f7a15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/AI/Image Detection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "e5a07af6baf1b031",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/AI/Review - YOLO.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "dee9fc3095eb757c",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "notes/AI/Paper - YOLO.md"
           }
         }
       }
@@ -39,6 +105,7 @@
       {
         "id": "bbd1f353223c10fd",
         "type": "tabs",
+        "dimension": 65.58704453441295,
         "children": [
           {
             "id": "21c61a59e4db7551",
@@ -54,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📅",
+                "query": "tag:#🖥️/django",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,10 +131,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "5f7344cd7826b3fa",
+        "type": "tabs",
+        "dimension": 34.41295546558704,
+        "children": [
+          {
+            "id": "012f60aeb5c48c1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240
   },
   "right": {
     "id": "21d9656673f174b2",
@@ -76,7 +161,6 @@
       {
         "id": "d5af3ea2f0ca025e",
         "type": "tabs",
-        "dimension": 64.67611336032388,
         "children": [
           {
             "id": "d1bb5a5fdf0e6a0f",
@@ -84,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-08.md",
+                "file": "notes/kanban detail/AI-NLP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,40 +213,22 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "c03ba0bb54696947",
-        "type": "tabs",
-        "dimension": 35.32388663967611,
-        "children": [
-          {
-            "id": "012f60aeb5c48c1a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 271
   },
-  "active": "e26c9ff6de4e331b",
+  "active": "7b855c1f270450da",
   "lastOpenFiles": [
+    "notes/kanban detail/AI-NLP.md",
     "notes/TIL/2022-03-08.md",
-    "notes/TIL/2022-03-07.md",
-    "notes/TIL/2022-03-06.md",
-    "templates/TIL Note.md",
-    "templates/plan/Montly Note.md",
-    "templates/plan/Daily(weekend) Note.md",
-    "templates/plan/Daily(week day) Note.md",
-    "notes/CS/Django/django-environ.md",
-    "notes/CS/Django/django static.md",
-    "notes/CS/Django/model-bakery.md"
+    "notes/TIL list.md",
+    "notes/AI/Image Detection.md",
+    "notes/kanban detail/AI-image.md",
+    "notes/AI/Review - YOLO.md",
+    "notes/AI/Paper - YOLO.md",
+    "templates/PDF annotation.md",
+    "notes/AI/files/You Only Loock Once.pdf",
+    "notes/AI/Image Captioning.md"
   ]
 }

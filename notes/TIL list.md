@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] [[배포]]
 - [ ] [[Django]]
+- [ ] [[AI-image]]
+- [ ] [[AI-NLP]]
 
 
 ## Pused
