@@ -1,0 +1,18 @@
+---
+type : [[TIL list]]
+---
+
+created : 2022-03-06 22:16
+tags : #📌 
+
+# Django 
+## About Django
+- [[django static]]
+
+
+---
+## Third Party Lib.
+- [[django-environ]]
+	- 환경 변수를 설정하는 라이브러리
+- [[pytest-django]]
+	- [[model-bakery]]

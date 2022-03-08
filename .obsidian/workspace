@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6aa327321df8ab2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "edaf02ff90737dc9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "templates/TIL Note.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e26c9ff6de4e331b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/TIL/2022-03-08.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5963c3a3091cac72",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd1f353223c10fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c61a59e4db7551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28ee17f7cc2a8add",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#📅",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21d9656673f174b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5af3ea2f0ca025e",
+        "type": "tabs",
+        "dimension": 64.67611336032388,
+        "children": [
+          {
+            "id": "d1bb5a5fdf0e6a0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/TIL/2022-03-08.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "708cc6e84a969d09",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "3229c0073ad3c4dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7b264b18f45b5a8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "082133696e1843b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c03ba0bb54696947",
+        "type": "tabs",
+        "dimension": 35.32388663967611,
+        "children": [
+          {
+            "id": "012f60aeb5c48c1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "active": "e26c9ff6de4e331b",
+  "lastOpenFiles": [
+    "notes/TIL/2022-03-08.md",
+    "notes/TIL/2022-03-07.md",
+    "notes/TIL/2022-03-06.md",
+    "templates/TIL Note.md",
+    "templates/plan/Montly Note.md",
+    "templates/plan/Daily(weekend) Note.md",
+    "templates/plan/Daily(week day) Note.md",
+    "notes/CS/Django/django-environ.md",
+    "notes/CS/Django/django static.md",
+    "notes/CS/Django/model-bakery.md"
+  ]
+}
