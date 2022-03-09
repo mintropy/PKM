@@ -1,4 +1,5 @@
 # Python
+**tags** : #🖥️note #🖥️note/python 
 
 ## Python
 ```dataview

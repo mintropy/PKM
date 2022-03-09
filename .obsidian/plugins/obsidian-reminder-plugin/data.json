@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "notes/TIL/2022-03-09.md": [
+      {
+        "title": "특화 멘토링 전까지 기본적인 인공지능 공부하기",
+        "time": "2022-03-11",
+        "rowNumber": 16
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

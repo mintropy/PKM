@@ -8,7 +8,7 @@ annotation-target: You Only Loock Once.pdf
 ---
 
 [[AI]]
-**tags** : #🖥️note #🖥️note/AI #🖥️note/AI/Paper 
+**tags** : #🖥️note/AI/Paper 
 
 >%%
 >```annotation-json

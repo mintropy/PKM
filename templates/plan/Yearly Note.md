@@ -2,7 +2,7 @@
 type : [[plans]] [[montly]]
 ---
 
-tags : #📅 #📅/yearly 
+tags : #📅Plan #📅Plan/yearly 
 
 # <% tp.date.now("YYYY") %>
 

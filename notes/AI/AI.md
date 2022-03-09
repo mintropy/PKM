@@ -1,4 +1,5 @@
 # AI
+**tags** : #🖥️note #🖥️note/AI 
 
 ## Paper Reviews
 ```dataview

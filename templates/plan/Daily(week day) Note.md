@@ -3,7 +3,7 @@ type : [[plans]] [[daily]]
 ---
 
 created : {{date}} {{time}}
-tags : #📅 #📅/daily 
+tags : #📅Plan #📅Plan/daily 
 
 # {{title}}
 

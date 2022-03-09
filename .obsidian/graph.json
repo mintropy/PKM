@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#🖥️",
+      "query": "tag:#🖥️note",
       "color": {
         "a": 1,
         "rgb": 16722217
@@ -46,6 +46,6 @@
   "repelStrength": 10.7692307692308,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3823010968770071,
+  "scale": 0.5359795996226104,
   "close": false
 }

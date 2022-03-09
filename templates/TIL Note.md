@@ -5,5 +5,5 @@ summary:
 
 # [[TIL]]
 created : {{date}} {{time}}
-tags : #✏️
+tags : #✏️TIL
 day : [[<% tp.date.yesterday() %>]] ← {{title}} → [[<% tp.date.tomorrow() %>]]

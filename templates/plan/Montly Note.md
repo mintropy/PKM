@@ -2,7 +2,7 @@
 type : [[plans]] [[montly]]
 ---
 
-tags : #📅 #📅/montly 
+tags : #📅Plan #📅Plan/montly 
 
 # {{title}}
 
