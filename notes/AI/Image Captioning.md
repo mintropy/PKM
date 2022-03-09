@@ -1,9 +1,12 @@
 ---
-type : [[knowledges]]
+type : knowledges
+detail : Image Cpationing
+content_type : note
 ---
 
+[[AI]]
 created : 2022-03-08 14:02
-tags : #🖥️ #🖥️/AI  
+tags : #🖥️note #🖥️note/AI #🖥️note/AI/Note 
 
 # Image Captioning
 - 입력 이미지에서 캡션(설명)을 만들어 내는 것

@@ -1,9 +1,10 @@
 ---
-type : [[knowledges]]
+type : knowledges
 ---
 
+[[Python]]
 created : 2022-03-06 22:35
-tags : #🖥️ #🖥️/python
+tags : #🖥️note #🖥️note/python
 
 # pre-commit
 - https://pre-commit.com/

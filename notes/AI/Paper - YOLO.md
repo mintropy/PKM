@@ -1,12 +1,18 @@
 ---
 
+type : knowledges
+detail : Image Detection
+content_type : paper
 annotation-target: You Only Loock Once.pdf
 
 ---
 
+[[AI]]
+**tags** : #🖥️note #🖥️note/AI #🖥️note/AI/Paper 
+
 >%%
 >```annotation-json
->{"created":"2022-03-08T06:40:35.378Z","text":"Abstract","updated":"2022-03-08T06:40:35.378Z","document":{"title":"You Only Loock Once.pdf","link":[{"href":"urn:x-pdf:6742b0a02d8cab19dfef85ebfc90ade6"},{"href":"vault:/notes/AI/files/You Only Loock Once.pdf"}],"documentFingerprint":"6742b0a02d8cab19dfef85ebfc90ade6"},"uri":"vault:/notes/AI/files/You Only Loock Once.pdf","target":[{"source":"vault:/notes/AI/files/You Only Loock Once.pdf","selector":[{"type":"TextPositionSelector","start":216,"end":224},{"type":"TextQuoteSelector","exact":"Abstract","prefix":"search¶http://pjreddie.com/yolo/","suffix":"We present YOLO, a new approach "}]}]}
+>{"text":"Abstract","target":[{"source":"vault:/notes/AI/files/You Only Loock Once.pdf","selector":[{"type":"TextPositionSelector","start":216,"end":224},{"type":"TextQuoteSelector","exact":"Abstract","prefix":"search¶http://pjreddie.com/yolo/","suffix":"We present YOLO, a new approach"}]}],"created":"2022-03-08T06:40:35.378Z","updated":"2022-03-08T06:40:35.378Z","document":{"title":"You Only Loock Once.pdf","link":[{"href":"urn:x-pdf:6742b0a02d8cab19dfef85ebfc90ade6"},{"href":"vault:/notes/AI/files/You Only Loock Once.pdf"}],"documentFingerprint":"6742b0a02d8cab19dfef85ebfc90ade6"},"uri":"vault:/notes/AI/files/You Only Loock Once.pdf"}
 >```
 >%%
 >*%%PREFIX%%search¶http://pjreddie.com/yolo/%%HIGHLIGHT%% ==Abstract== %%POSTFIX%%We present YOLO, a new approach*
@@ -14,7 +20,7 @@ annotation-target: You Only Loock Once.pdf
 >%%COMMENT%%
 >Abstract
 >%%TAGS%%
->#Abstract
+>
 ^hga47elcrm4
 
 
@@ -48,7 +54,7 @@ annotation-target: You Only Loock Once.pdf
 
 >%%
 >```annotation-json
->{"created":"2022-03-08T06:48:20.524Z","text":"1. Introduction","updated":"2022-03-08T06:48:20.524Z","document":{"title":"You Only Loock Once.pdf","link":[{"href":"urn:x-pdf:6742b0a02d8cab19dfef85ebfc90ade6"},{"href":"vault:/notes/AI/files/You Only Loock Once.pdf"}],"documentFingerprint":"6742b0a02d8cab19dfef85ebfc90ade6"},"uri":"vault:/notes/AI/files/You Only Loock Once.pdf","target":[{"source":"vault:/notes/AI/files/You Only Loock Once.pdf","selector":[{"type":"TextPositionSelector","start":1335,"end":1350},{"type":"TextQuoteSelector","exact":"1. Introduction","prefix":"s to other domains like artwork.","suffix":"Humans glance at an image and in"}]}]}
+>{"text":"1. Introduction","target":[{"source":"vault:/notes/AI/files/You Only Loock Once.pdf","selector":[{"type":"TextPositionSelector","start":1335,"end":1350},{"type":"TextQuoteSelector","exact":"1. Introduction","prefix":"s to other domains like artwork.","suffix":"Humans glance at an image and in"}]}],"created":"2022-03-08T06:48:20.524Z","updated":"2022-03-08T06:48:20.524Z","document":{"title":"You Only Loock Once.pdf","link":[{"href":"urn:x-pdf:6742b0a02d8cab19dfef85ebfc90ade6"},{"href":"vault:/notes/AI/files/You Only Loock Once.pdf"}],"documentFingerprint":"6742b0a02d8cab19dfef85ebfc90ade6"},"uri":"vault:/notes/AI/files/You Only Loock Once.pdf"}
 >```
 >%%
 >*%%PREFIX%%s to other domains like artwork.%%HIGHLIGHT%% ==1. Introduction== %%POSTFIX%%Humans glance at an image and in*
@@ -56,7 +62,7 @@ annotation-target: You Only Loock Once.pdf
 >%%COMMENT%%
 >1. Introduction
 >%%TAGS%%
->#Introduction
+>
 ^2myepg6djti
 
 

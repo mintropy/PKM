@@ -1,9 +1,10 @@
 ---
-type : [[knowledges]]
+type : knowledges
 ---
 
+[[Python]]
 created : 2022-03-07 10:58
-tags : #🖥️ #🖥️/django 
+tags : #🖥️note #🖥️note/Django 
 
 # pytest-django
 - https://jadehan.tistory.com/4

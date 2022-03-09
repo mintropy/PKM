@@ -6,7 +6,7 @@
 TABLE without id
 	status as "상태",
 	length(rows) as "책 수"
-FROM #📔 
+FROM #📔Book  
 WHERE !contains(file.path, "templates")
 GROUP BY status
 SORT status DESC
@@ -20,6 +20,6 @@ TABLE without id
 	dateformat(start_read_date, "DD") as "시작일",
 	dateformat(finish_read_date, "DD") as "완료일",
 	rate as "내 평점"
-FROM #📔 
+FROM #📔Book  
 WHERE !contains(file.path, "templates")
 ```

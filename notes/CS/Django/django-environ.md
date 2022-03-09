@@ -1,9 +1,10 @@
 ---
-type : [[knowledges]]
+type : knowledges
 ---
 
+[[Python]]
 created : 2022-03-06 22:18
-tags : #🖥️ #🖥️/django  
+tags : #🖥️note #🖥️note/Django  
 
 # django-environ
 - https://django-environ.readthedocs.io/en/latest/

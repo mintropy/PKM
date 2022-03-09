@@ -7,8 +7,13 @@
         "id": "3eb818e8ff7f9583",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/TIL/2022-03-09.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -59,6 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "notes/TIL/2022-03-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -105,6 +111,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "63fc6bfd3a406c20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -118,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/TIL/2022-03-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +174,15 @@
   },
   "active": "3eb818e8ff7f9583",
   "lastOpenFiles": [
-    "notes/books/Books.md",
-    "notes/TIL list.md",
-    "notes/kanban detail/AI-image.md",
-    "notes/TIL/TIL.md",
-    "templates/TIL Note.md",
-    "notes/TIL/2022-03-08.md",
-    "templates/Book Note.md",
-    "notes/TIL/2022-03-07.md",
-    "notes/TIL/2022-03-06.md",
-    "notes/AI/Image Detection.md"
+    "notes/TIL/2022-03-09.md",
+    "notes/CS/CS pulzo.md",
+    "notes/CS/CS-yorisa.md",
+    "notes/AI/AI.md",
+    "notes/CS/Python.md",
+    "notes/CS/Django/django static.md",
+    "notes/CS/Django/django-environ.md",
+    "notes/CS/Django/model-bakery.md",
+    "notes/CS/Django/pytest-django.md",
+    "notes/CS/Python/pre-commit.md"
   ]
 }

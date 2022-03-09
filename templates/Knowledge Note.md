@@ -1,8 +1,11 @@
 ---
-type : [[knowledges]]
+type : knowledges
+detail : 
+content_type :
 ---
 
+[[]]
 created : {{date}} {{time}}
-tags : #🖥️ 
+tags : #🖥️note 
 
 # {{title}}

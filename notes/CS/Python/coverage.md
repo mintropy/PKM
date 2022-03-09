@@ -1,9 +1,10 @@
 ---
-type : [[knowledges]]
+type : knowledges
 ---
 
+[[Python]]
 created : 2022-03-07 11:47
-tags : #🖥️ #🖥️/python 
+tags : #🖥️note #🖥️note/python 
 
 # coverage
 - https://coverage.readthedocs.io/en/6.3.2/
