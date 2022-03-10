@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-09.md",
+            "file": "notes/TIL/2022-09-10.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-09.md",
+                "file": "notes/TIL/2022-09-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-09.md",
+                "file": "notes/TIL/2022-09-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,15 +199,15 @@
   },
   "active": "c3c2cb2599367d2d",
   "lastOpenFiles": [
+    "notes/TIL/2022-09-10.md",
+    "templates/detail/TIL detail.md",
+    "templates/TIL Note.md",
+    "notes/Tasks.md",
     "notes/TIL/2022-03-09.md",
     "notes/AI/Review - BERT.md",
     "notes/AI/Review - YOLO.md",
     "templates/Knowledge Note  - Review.md",
     "templates/PDF annotation.md",
-    "notes/AI/paper - BERT.md",
-    "notes/AI/Paper - YOLO.md",
-    "templates/Knowledge Note.md",
-    "notes/Tasks.md",
-    "templates/detail/TIL detail.md"
+    "notes/AI/paper - BERT.md"
   ]
 }
