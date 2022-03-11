@@ -4,6 +4,6 @@ summary:
 ---
 
 # [[TIL]]
-created : {{date}} {{time}}
+created : <% tp.date.now('YYYY-MM-DD hh:mm') %>
 tags : #✏️TIL
-day : [[<% tp.date.yesterday() %>]] ← {{title}} → [[<% tp.date.tomorrow() %>]]
+day : [[<% tp.date.yesterday() %>]] ← <% tp.date.now() %> → [[<% tp.date.tomorrow() %>]]
