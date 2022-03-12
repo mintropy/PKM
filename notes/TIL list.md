@@ -4,13 +4,11 @@ kanban-plugin: basic
 
 ---
 
-**tags** : #📌 
-
 ## Learning
 
+- [ ] [[AI-image]]
 - [ ] [[배포]]
 - [ ] [[Django]]
-- [ ] [[AI-image]]
 - [ ] [[AI-NLP]]
 
 

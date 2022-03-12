@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#✏️",
+      "query": "tag:#✏️TIL",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -46,6 +46,6 @@
   "repelStrength": 10.7692307692308,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5359795996226104,
-  "close": false
+  "scale": 0.3213363860503594,
+  "close": true
 }
