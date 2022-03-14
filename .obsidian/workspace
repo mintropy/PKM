@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-13.md",
+            "file": "notes/TIL/2022-03-14.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-13.md",
+                "file": "notes/TIL/2022-03-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000018,
+                  "scale": 0.7132754626224432,
                   "close": true
                 }
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-13.md",
+                "file": "notes/TIL/2022-03-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,15 +198,15 @@
   },
   "active": "675b220f788b91bb",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-14.md",
+    "templates/Knowledge Note.md",
+    "templates/Knowledge Note  - Review.md",
+    "templates/Book Note.md",
     "notes/TIL/2022-03-13.md",
     "notes/TIL/2022-03-12.md",
     "notes/TIL/TIL.md",
     "notes/Tasks.md",
     "templates/detail/TIL detail.md",
-    "templates/TIL Note.md",
-    "templates/TIL list Note.md",
-    "notes/TIL/2022-03-11.md",
-    "notes/TIL list.md",
-    "notes/kanban detail/AI-image.md"
+    "templates/TIL Note.md"
   ]
 }
