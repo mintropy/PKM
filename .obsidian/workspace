@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-14.md",
+            "file": "notes/TIL/2022-03-15.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-14.md",
+                "file": "notes/TIL/2022-03-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-14.md",
+                "file": "notes/TIL/2022-03-15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +198,7 @@
   },
   "active": "675b220f788b91bb",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-15.md",
     "notes/TIL/2022-03-14.md",
     "templates/Knowledge Note.md",
     "templates/Knowledge Note  - Review.md",
@@ -206,7 +207,6 @@
     "notes/TIL/2022-03-12.md",
     "notes/TIL/TIL.md",
     "notes/Tasks.md",
-    "templates/detail/TIL detail.md",
-    "templates/TIL Note.md"
+    "templates/detail/TIL detail.md"
   ]
 }
