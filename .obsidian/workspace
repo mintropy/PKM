@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-17.md",
+            "file": "notes/TIL/2022-03-18.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -64,7 +64,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-17.md",
+                "file": "notes/TIL/2022-03-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-17.md",
+                "file": "notes/TIL/2022-03-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +176,7 @@
   },
   "active": "675b220f788b91bb",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-18.md",
     "notes/TIL/2022-03-17.md",
     "notes/kanban detail/Django.md",
     "notes/TIL list.md",
@@ -184,7 +185,6 @@
     "notes/AI/Review - BERT.md",
     "notes/TIL/2022-03-16.md",
     "notes/TIL/2022-03-15.md",
-    "notes/TIL/2022-03-14.md",
-    "templates/Knowledge Note.md"
+    "notes/TIL/2022-03-14.md"
   ]
 }
