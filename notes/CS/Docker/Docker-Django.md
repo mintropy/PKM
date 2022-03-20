@@ -41,3 +41,14 @@ RUN apt-get install -y gcc
 RUN apt-get install -y default-libmysqlclient-dev
 ENV PYTHONBUFFERED 1
 ```
+
+- MySQl을 생성하고 바로 접근하게 되면 DB생성이 완료되지 않아 접근이 안되는 문제 발생
+- 모든 컨테이너가 생성된 이후, migrate 등 작업으로 해결할 수 있음
+
+```bash
+docker-compose run backend python manage.py migrate
+```
+
+- docker-compose에서 위의 명령어를 실행하도록 함
+	- backend는 docker-compose에서 Django 컨테이너 이름
+	- `python manage.py maigrate` 실행
