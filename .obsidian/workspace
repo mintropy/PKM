@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-19.md",
+            "file": "notes/TIL/2022-03-20.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-19.md",
+                "file": "notes/TIL/2022-03-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-19.md",
+                "file": "notes/TIL/2022-03-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "675b220f788b91bb",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-20.md",
     "notes/TIL/2022-03-19.md",
     "notes/books/HTTP완벽 가이드.md",
     "notes/books/지적 대화를 위한 넓고 얕은 지식1.md",
@@ -198,7 +199,6 @@
     "notes/TIL/Network.md",
     "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
     "notes/CS/Docker-Compose.md",
-    "notes/CS/Docker/Docker-Django.md",
-    "notes/kanban detail/배포.md"
+    "notes/CS/Docker/Docker-Django.md"
   ]
 }
