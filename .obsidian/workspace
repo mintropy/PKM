@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/CS/Network.md",
+            "file": "notes/CS/Network/Nginx.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -35,7 +35,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/CS/Network/HTTP.md",
+            "file": "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e9423467babf9925",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/CS/Docker/Docker-Compose-Django&gunicorn&nginx.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -204,14 +217,14 @@
   "active": "f1f49699ae1c62b2",
   "lastOpenFiles": [
     "notes/TIL/2022-03-23.md",
-    "notes/TIL/2022-03-22.md",
+    "notes/CS/Network/Nginx.md",
+    "notes/CS/Docker/Docker-Compose-Django&gunicorn&nginx.md",
+    "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
+    "notes/CS/Docker.md",
+    "notes/CS/Docker-Compose.md",
+    "notes/CS/Docker/Docker-Nginx.md",
     "notes/CS/Network/HTTP.md",
     "notes/CS/Network.md",
-    "notes/books/HTTP완벽 가이드.md",
-    "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
-    "notes/CS/Docker-Compose.md",
-    "notes/CS/Docker/Docker-Django.md",
-    "notes/CS/Docker.md",
-    "notes/TIL/2022-03-21.md"
+    "notes/TIL/2022-03-22.md"
   ]
 }

@@ -5,10 +5,10 @@ content_type :
 ---
 
 [[Docker-Compose]]
-created : 2022-03-19 12:58
+created : 2022-03-23 13:53
 tags : #🖥️note/Docker  
 
-# Docker-Compose-MySQL&Django
+# Docker-Compose-Django&gunicorn&nginx
 
 ```yaml
 
