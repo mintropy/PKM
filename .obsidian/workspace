@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-25.md",
+            "file": "notes/TIL/2022-03-26.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/CS/algorithm/CCW.md",
+            "file": "notes/books/파이썬 클린 코드.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "675b220f788b91bb",
+        "id": "cddb3d5e3c48e7b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/CS/Network/Nginx.md",
+            "file": "notes/CS/Python/Docstring과 어노테이션.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -43,25 +43,12 @@
         }
       },
       {
-        "id": "f2178d6a821b3654",
+        "id": "43e3175fc02b064f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "e9423467babf9925",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/CS/Docker/Docker-Compose-Django&gunicorn&nginx.md",
+            "file": "notes/CS/Python/Python versions.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -116,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/CS/algorithm/CCW.md",
+                "file": "notes/TIL/2022-03-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "d5af3ea2f0ca025e",
@@ -185,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/CS/algorithm/CCW.md",
+                "file": "notes/TIL/2022-03-26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,25 +206,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 294,
     "collapsed": true
   },
-  "active": "43c090777d2dc671",
+  "active": "f1f49699ae1c62b2",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-26.md",
+    "notes/books/파이썬 클린 코드.md",
+    "notes/CS/Python/type hint.md",
+    "notes/CS/Python/Python versions.md",
+    "notes/CS/Python/Docstring과 어노테이션.md",
+    "notes/CS/Python.md",
+    "notes/CS/Python/python 클린코드.md",
+    "templates/Knowledge Note.md",
     "notes/CS/algorithm/CCW.md",
-    "notes/TIL/2022-03-25.md",
-    "notes/CS/Network/Nginx.md",
-    "notes/TIL/2022-03-24.md",
-    "notes/TIL/2022-03-23.md",
-    "notes/CS/Docker/Docker-Compose-Django&gunicorn&nginx.md",
-    "notes/CS/Docker/Docker-Compose-MySQL&Django.md",
-    "notes/CS/Docker.md",
-    "notes/CS/Docker-Compose.md",
-    "notes/CS/Docker/Docker-Nginx.md"
+    "notes/TIL/2022-03-25.md"
   ]
 }
