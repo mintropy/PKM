@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-26.md",
+            "file": "notes/TIL/2022-03-27.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/books/파이썬 클린 코드.md",
+            "file": "notes/books/파이썬 라이브러리를 활용한 머신러닝.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-26.md",
+                "file": "notes/books/파이썬 라이브러리를 활용한 머신러닝.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-26.md",
+                "file": "notes/books/파이썬 라이브러리를 활용한 머신러닝.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +213,17 @@
     "width": 294,
     "collapsed": true
   },
-  "active": "f1f49699ae1c62b2",
+  "active": "43c090777d2dc671",
   "lastOpenFiles": [
-    "notes/TIL/2022-03-26.md",
+    "notes/books/파이썬 라이브러리를 활용한 머신러닝.md",
+    "notes/TIL/2022-03-27.md",
+    "notes/CS/Python/Docstring과 어노테이션.md",
     "notes/books/파이썬 클린 코드.md",
+    "notes/TIL/2022-03-26.md",
     "notes/CS/Python/type hint.md",
     "notes/CS/Python/Python versions.md",
-    "notes/CS/Python/Docstring과 어노테이션.md",
     "notes/CS/Python.md",
     "notes/CS/Python/python 클린코드.md",
-    "templates/Knowledge Note.md",
-    "notes/CS/algorithm/CCW.md",
-    "notes/TIL/2022-03-25.md"
+    "templates/Knowledge Note.md"
   ]
 }
