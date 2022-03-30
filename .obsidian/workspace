@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-03-29.md",
+            "file": "notes/TIL/2022-03-30.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -24,32 +24,6 @@
           "state": {
             "file": "notes/CS/Python.md",
             "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cddb3d5e3c48e7b4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/CS/Django/ORM.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "5d827c79459ece4a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/CS/Django/N+1 Problem.md",
-            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -103,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-03-29.md",
+                "file": "notes/TIL/2022-03-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-03-29.md",
+                "file": "notes/TIL/2022-03-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,15 +189,15 @@
   },
   "active": "f1f49699ae1c62b2",
   "lastOpenFiles": [
+    "notes/TIL/2022-03-30.md",
+    "notes/CS/Python.md",
+    "notes/CS/Django/ORM.md",
     "notes/TIL/2022-03-29.md",
     "notes/TIL/2022-03-28.md",
     "notes/CS/Django/N+1 Problem.md",
-    "notes/CS/Django/ORM.md",
-    "notes/CS/Python.md",
     "notes/CS/Python/Docstring과 어노테이션.md",
     "notes/books/파이썬 라이브러리를 활용한 머신러닝.md",
     "notes/TIL/2022-03-27.md",
-    "notes/books/파이썬 클린 코드.md",
-    "notes/TIL/2022-03-26.md"
+    "notes/books/파이썬 클린 코드.md"
   ]
 }
