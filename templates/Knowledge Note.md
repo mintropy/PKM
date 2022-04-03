@@ -6,6 +6,6 @@ content_type :
 
 [[]]
 created : {{date}} {{time}}
-tags : #🖥️note 
+tags : #🖥️note
 
 # {{title}}
