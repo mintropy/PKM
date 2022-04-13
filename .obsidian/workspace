@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/TIL/2022-04-06.md",
+            "file": "notes/TIL/2022-04-13.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -90,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notes/TIL/2022-04-06.md",
+                "file": "notes/TIL/2022-04-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TIL/2022-04-06.md",
+                "file": "notes/TIL/2022-04-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +201,7 @@
   },
   "active": "f1f49699ae1c62b2",
   "lastOpenFiles": [
+    "notes/TIL/2022-04-13.md",
     "notes/TIL/2022-04-06.md",
     "notes/TIL/2022-04-05.md",
     "notes/TIL/2022-04-04.md",
@@ -209,7 +210,6 @@
     "notes/TIL/2022-04-02.md",
     "notes/CS/AI/지도 학습 알고리즘.md",
     "notes/books/Books.md",
-    "notes/CS/AI/AI.md",
-    "templates/Knowledge Note.md"
+    "notes/CS/AI/AI.md"
   ]
 }
