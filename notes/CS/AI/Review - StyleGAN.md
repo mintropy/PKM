@@ -18,10 +18,12 @@ tags : #🖥️note/AI/Review
 ---
 ## Abstract
 - style transfer아이디어를 활용한 GAN 모델
+	- descriminator, loss function을 수정하지 않고 generator를 더 효율적으로 만듬
 - high-level attribute 분류를 도와주고, stochastic variation을 다양하게 적용할 수 있음
 	- high-level attribute : 사람의 자세, 얼굴에 대한 정보
 	- stochatic variation : 동일한 사람의 이미지여도, 구성 요소는 확률적으로 다양한 방식을 통해 달라질 수 있음
-- interpolation quality와 disentanglement 수치를 확인할 수 인ㄴ는 2가지 방법
+- interpolation quality와 disentanglement 수치를 확인할 수 있는 2가지 방법
+	- perceptual path length, linear separability
 - 고해상도 사람 얼굴 이미지 데이터셋(FFHQ)
 
 ## 1. Introduction
@@ -32,7 +34,12 @@ tags : #🖥️note/AI/Review
 - style transfer에 영감을 받았고, 생성자 아키텍처를 디자인함
 
 ## 2. Style-based generator
-- 
+- 전통적인 방식은, latent vector가 입력값으로 들어가며 다양한 이미지가 생성되도록 함
+	- style-based generator는 별도의 style정보를 layer를 거칠 때마다 넣어주기 때문에, latent vector를 입력으로 넣어주지 않아도 됨
+	- latent vector를 non linear mapping을 통하여 512차원 벡터로 변환, 실제 입력값이 됨
+	- 사람 이미지에서 조금씩 바뀔 수 있는 face, skin, hair (=stochastic variation)을 처리할 수 있는 noise에 대한 vector도 추가
+- AdaIN 을 활용한 style  transfer network
+	- style transfer network에서 normalization을 효과적으로 사용할 수 있는 방법 중 하나
 
 ### 2.1 Quality of generated images
 
