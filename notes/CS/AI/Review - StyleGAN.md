@@ -40,6 +40,7 @@ tags : #🖥️note/AI/Review
 	- 사람 이미지에서 조금씩 바뀔 수 있는 face, skin, hair (=stochastic variation)을 처리할 수 있는 noise에 대한 vector도 추가
 - AdaIN 을 활용한 style  transfer network
 	- style transfer network에서 normalization을 효과적으로 사용할 수 있는 방법 중 하나
+	- 하나의 feature에 대한 정보를 scaling, bias를 적용하며 입력받은 스타일은 statistics를 이용하여, feature에 대한 statistics를 바꿀 수 있도록 함
 
 ### 2.1 Quality of generated images
 
