@@ -45,6 +45,9 @@ tags : #🖥️note/AI/Review
 ### 2.1 Quality of generated images
 
 ### 2.2 Prior art
+- 대부분 GAN이 discriminator에 집중
+	- multiple discriminators, multiresolution discrimination, self-attention 등
+- generator와 관련해서는 정확한 distribution을 목표로 함
 
 ## 3. Properties of the style-based generator
 
@@ -67,6 +70,6 @@ tags : #🖥️note/AI/Review
 # 참조
 - [GitHub](https://github.com/NVlabs/stylegan)
 - 논문 리뷰
-	- [리뷰1]https://velog.io/@ghgh5317/A-Style-Based-Generator-Architecture-for-Generative-Adversarial-Networks-review
-		- [리뷰 1 해설](https://velog.io/@ghgh5317/StyleGAN-v1-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%A0%95%EB%A6%AC)
-	- [리뷰2](https://blog.promedius.ai/stylegan_1/)
+	- [논문 리뷰]https://velog.io/@ghgh5317/A-Style-Based-Generator-Architecture-for-Generative-Adversarial-Networks-review
+		- [리뷰 해설](https://velog.io/@ghgh5317/StyleGAN-v1-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%A0%95%EB%A6%AC)
+	- [논문 리뷰](https://blog.promedius.ai/stylegan_1/)
