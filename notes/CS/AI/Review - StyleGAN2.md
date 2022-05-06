@@ -35,8 +35,18 @@ tags : #🖥️note/AI/Review
 
 ## 2. Removing normalization artifacts
 - StyleGAN로 생성된 이미지의 가장 큰 문제는 blob-shaped artifact
+	- droplet이 명확하지 않더라도 생성자 feature mapㅇ에서 표현됨
+	- $64 \times 64$ 크기부터 나타나기 시작, 더 강해짐
+- AdaIN 연산에 집중
+	- 각 feature map을 normalize mean and variance
+	- feature를 붕괴할 가능성 있음
+	- droplet이 generator에 의한 결과라고 가설을 세움
+		- 특정 부위에 통계적으로 큰 값을 부여함으로 전체 결과를 조정하기 쉬워짐
+		- 정규화 단계를 삭제하자 현상이 사라짐
 
 ### 2.1. Generator architecture revisited
+- revise normalization
+	- AdaIN에서 평균을 제거, 표준편차만을 사용
 
 ### 2.2. Instance normalization revisited
 
