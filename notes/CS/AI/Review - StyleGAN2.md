@@ -45,12 +45,31 @@ tags : #🖥️note/AI/Review
 		- 정규화 단계를 삭제하자 현상이 사라짐
 
 ### 2.1. Generator architecture revisited
+- 기존 StyleGAN에서 style block 내부에서 bias, noise 적용
+	- style이 현재 style 크기에 반비례하게 적용
+	- styleGAN2에서 bias, noise를 style block 외부로 옮겨 해결
 - revise normalization
-	- AdaIN에서 평균을 제거, 표준편차만을 사용
+	- AdaIN제거, feature map마다 평균, 표준편차 계산
+	- blob-shaped artifact의 정확한 원인을 찾지 못하였으나, AdaIN을 그 원인으로 추측
 
 ### 2.2. Instance normalization revisited
+- StyleGAN의 장점은 style mixing을 통한 이미지 생성
+	- style modulation이 특정 feature map에서 너무 강하게 작용될 수 있음
+	- 고해상도를 포기하면 (FID 강화), normalization을 제거하여 충분히 해결할 수 있지만, 대안 제시
+- revised architecture는 modulation, convolution, normalization으로 구성
+	- modulation은 값을 scale
+	- feature map에서 modulation하는 대신, convolution weight에 modulation
+	- artifact를 제거
+	- FID는 큰 의미가 없지만, P&R에서 큰 변화
+	- 그룹화된 convolution을 통해 효율적 구현
 
 ## 3. Image quality and generator smoothness
+- 기존 metric
+	- FID, P&R등 지표가 generator향상에 크게 기여했지만, 허점이 많음
+- PPL(perceptual path length)
+	- 작은 latent변화에 의해 생성된 이미지 사이 평균 LPIPS 거리 사용
+	- FID, P&R이 같더라도 PPL이 더 낮으면 high quality 이미지 생성 
+	- StyleGAN2가 StyleGAN1보다 PPL이 더 낮음
 
 ### 3.1. Lazy regularization
 
