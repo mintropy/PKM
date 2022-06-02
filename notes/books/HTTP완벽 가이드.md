@@ -27,7 +27,7 @@ tags : #📔Book
 - 메시지의 각 부분
 	- 시작줄, 헤더, 본문
 	- [[HTTP method]]
-	- HTTP status code
+	- [[HTTP status code]]
 	- HTTP Header
 
 ## 4. 커넥션 관리

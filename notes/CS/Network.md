@@ -4,3 +4,11 @@
 	- 내용 이전 & 정리 예정
 
 ---
+
+**tags** : #🖥️note #🖥️note/Network  
+
+## Network
+```dataview
+LIST
+FROM #🖥️note/Network  
+```
