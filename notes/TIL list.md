@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Learning
 
-- [ ] [[AI-image]]
 - [ ] [[배포]]
 - [ ] [[Django]]
 - [ ] [[AI-NLP]]
@@ -14,6 +13,7 @@ kanban-plugin: basic
 
 ## Pused
 
+- [ ] [[AI-image]]
 
 
 ## Finished

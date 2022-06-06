@@ -12,6 +12,9 @@ tags : #📌
 
 ---
 ## Third Party Lib.
+- DRF
+	- Django API 서버 구축을 위한 라이브러리
+	- [[DRF-ViewSet]]
 - [[django-environ]]
 	- 환경 변수를 설정하는 라이브러리
 - [[pytest-django]]
