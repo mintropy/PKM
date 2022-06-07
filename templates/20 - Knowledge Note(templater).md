@@ -5,7 +5,7 @@ content_type :
 ---
 
 [[]]
-created : {{date}} {{time}}
+created : <% tp.date.now('YYYY-MM-DD hh:mm') %>
 tags : #🖥️note
 
-# {{title}}
+# <% tp.file.title %>
