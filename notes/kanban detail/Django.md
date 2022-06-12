@@ -3,12 +3,11 @@ type : [[TIL list]]
 ---
 
 created : 2022-03-06 22:16
-tags : #📌 
+tags : #📌TIL_List #🖥️Note/Django 
 
 # Django 
 ## About Django
 - [[django static]]
-
 
 ---
 ## Third Party Lib.

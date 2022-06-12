@@ -6,19 +6,25 @@ kanban-plugin: basic
 
 ## Learning
 
-- [ ] [[배포]]
 - [ ] [[Django]]
-- [ ] [[AI-NLP]]
+- [ ] [[Python]]
+- [ ] [[AI]]
+- [ ] [[Interview]]
+- [ ] [[Go]]
+- [ ] [[JavaScript]]
 
 
 ## Pused
 
-- [ ] [[AI-image]]
+- [ ] [[배포]]
+- [ ] [[디자인 패턴]]
 
 
 ## Finished
 
 **Complete**
+- [x] [[AI-image]]
+- [x] [[AI-NLP]]
 
 
 

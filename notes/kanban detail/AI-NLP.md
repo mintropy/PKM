@@ -5,7 +5,7 @@ detail : NLP
 
 [[AI]]
 created : 2022-03-08 16:28
-tags : #🖥️note #🖥️note/AI #🖥️note/AI/Note 
+tags : #🖥️Note #🖥️Note/AI #🖥️Note/AI/Note 
 
 # AI-NLP
 - 자연어를 입력, 출력으로 하는 모델
@@ -23,3 +23,6 @@ tags : #🖥️note #🖥️note/AI #🖥️note/AI/Note
 # BERT
 - https://jiho-ml.com/weekly-nlp-28/
 - https://lsjsj92.tistory.com/618
+
+---
+[[AI]]로 통합
