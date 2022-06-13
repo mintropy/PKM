@@ -7,4 +7,9 @@ tags : #📌TIL_List #🖥️Note/Go
 
 # Go 
 
+- [[Go - 입출력]]
+
+- [[Go - new, make]]
+- [[Go - for]]
+
 - [[Go - big int]]
