@@ -1,9 +1,9 @@
 # PKM(Personal Knowledge Management)
 - **Obsidian.md** 로 작성되었습니다.
-	- [About Obsidian](About%20Obsidian.md)
+	- 전반적인 파일 구조나 markdown이 보이는게 이상한가요?
+		- [About Obsidian](About%20Obsidian.md) 참조 부탁드립니다
 - 개인 지식 보관소
-	- TIL
-	- 공부 내용 정리
+	- TIL(Today I Learned)와 공부 내용 정리를 위한 저장소
 
 ## 구조
 ```text
@@ -26,14 +26,18 @@ PKM
 - `#🖥️note` : 일반적인 문서들의 기본 태그
 
 ## 파일 이름 규칙
-- 일부 파일은 `Docker - name`, `Python - name` 형태이고, 아닌 경우도 있음
-	- 일관성을 이룰 수 있는 규칙이 필요함
+- TIL을 제외한 나머지 디렉터리 이름은 소문자
+- TIL : `notes/TIL` 디렉터리에 속하며 YYYY-MM-DD 형태
+- Books : `notes/books` 디렉터리에 속하며 책이름을 파일 이름으로
+- 그 외의 파일
+	- 언어 관련 : 언어, 라이브러리, 프레임워크 관련한 내용은 `notes/언어` 등 언어 이름 디렉터리서 `언어 - 내용` 또는 `라이브러리/프레임워크 - 내용` 형태
+	- 일반 CS 관련 (구분 필요)
 
 # Change Logs
 
 ## V0.2
 - 2022-06-11 ~ 
-- 첫번째 파일 구조 변경
+- 첫번째 파일 구조 변경, 모든 파일은 notes로 가져옴
 - 파일이 많아지며 다양한 디렉터리별 관리가 잘 되지 않고, PKM을 활용한 작업 흐름이 원활하지 않음
 	- 어느순간부터 단순하게 TIL 생성 ➡️ 추가노트 생성 과정만 반복하고, 더 효과적인 작업을 하지 못함
 - 노트를 정리하지 못하겠다면, 정리하지 말자!

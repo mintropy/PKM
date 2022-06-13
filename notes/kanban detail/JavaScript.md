@@ -9,3 +9,5 @@ tags : #📌TIL_List #🖥️Note/JS
 - JS와 Node.js를 모두 포함하는 문서
 
 - [[JS - 입력]]
+
+- [[JS - BigInt]]

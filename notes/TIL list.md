@@ -6,18 +6,19 @@ kanban-plugin: basic
 
 ## Learning
 
-- [ ] [[Django]]
+- [ ] [[디자인패턴]]
 - [ ] [[Python]]
+- [ ] [[Django]]
 - [ ] [[AI]]
 - [ ] [[Interview]]
 - [ ] [[Go]]
 - [ ] [[JavaScript]]
+- [ ] [[Java]]
 
 
 ## Pused
 
 - [ ] [[배포]]
-- [ ] [[디자인 패턴]]
 
 
 ## Finished
