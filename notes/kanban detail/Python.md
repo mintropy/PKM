@@ -7,3 +7,6 @@ tags : #📌TIL_List #🖥️Note/Python
 
 # Python 
 - [[Python versions]]
+
+## Library
+- [[Python - abc]]
