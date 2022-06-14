@@ -1,6 +1,5 @@
 ---
 type : knowledges
-detail : NLP
 ---
 
 [[AI]]

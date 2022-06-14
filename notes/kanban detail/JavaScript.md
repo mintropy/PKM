@@ -1,5 +1,5 @@
 ---
-type : [[TIL list]]
+type : 
 ---
 
 created : 2022-06-11 21:55
