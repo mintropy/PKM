@@ -1,5 +1,5 @@
 ---
-type : [[TIL list]]
+type : 
 ---
 
 created : {{date}} {{time}}
