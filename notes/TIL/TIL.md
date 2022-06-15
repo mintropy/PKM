@@ -1,5 +1,4 @@
 # TIL
-**tags** : #✏️TIL 
 
 ```dataview
 Table without id
