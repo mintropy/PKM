@@ -6,7 +6,7 @@ content_type :
 
 [[Docker]]
 created : 2022-03-19 11:32
-tags : #🖥️Note/Docker 
+tags : #🖥️/Docker 
 
 # Docker-Django
 - 기본 구조

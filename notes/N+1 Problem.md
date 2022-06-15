@@ -6,7 +6,7 @@ content_type :
 
 [[Django]]
 created : 2022-03-28 20:58
-tags : #🖥️Note/Django 
+tags : #🖥️/Django 
 
 # N+1 Problem
 - 하나의 쿼리 이후, 각 모델의 값이 필요할 때, 각 모델에 새로운 쿼리를 생성하여 N번의 추가 쿼리가 발생하는 문제

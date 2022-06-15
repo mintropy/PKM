@@ -6,7 +6,7 @@ content_type :
 
 [[Java]]
 created : 2022-06-13 02:57
-tags : #🖥️Note/Java 
+tags : #🖥️/Java 
 
 # Java - 자바 소스코드 구조
 ```java

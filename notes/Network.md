@@ -5,7 +5,7 @@
 
 ---
 
-**tags** : #🖥️Note #🖥️Note/Network  
+**tags** : #🖥️ #🖥️/Network  
 
 ## Network
 ```dataview

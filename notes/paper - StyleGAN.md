@@ -8,5 +8,5 @@ annotation-target: A Style-Based Generator Architecture for Generative Adversari
 ---
 
 [[AI]]
-**tags** : #🖥️Note/AI/Paper 
+**tags** : #🖥️/AI/Paper 
 

@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-12 09:55
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - 입출력
 

@@ -6,7 +6,7 @@ content_type :
 
 [[Interview]]
 created : 2022-03-11 17:43
-tags : #🖥️Note/interview  
+tags : #🖥️/interview  
 
 # interview-python
 

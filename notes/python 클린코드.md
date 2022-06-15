@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-03-26 17:11
-tags : #🖥️Note/Python  
+tags : #🖥️/Python  
 
 # python 클린코드
 - 클린코드에 대한 엄격한 정의는 없음

@@ -6,7 +6,7 @@ content_type :
 
 [[AI]]
 created : 2022-04-25 20:50
-tags : #🖥️Note/AI
+tags : #🖥️/AI
 
 # CNN
 - 합성곱 신경망(Convolutional neural network)

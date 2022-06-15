@@ -6,7 +6,7 @@ content_type :
 
 [[Network]]
 created : 2022-03-22 21:53
-tags : #🖥️Note/Network 
+tags : #🖥️/Network 
 
 # HTTP
 - HTTP(HyperText Transfer Protocol)

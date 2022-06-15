@@ -6,7 +6,7 @@ content_type :
 
 [[Network]]
 created : 2022-05-30 17:58
-tags : #🖥️Note/Network 
+tags : #🖥️/Network 
 
 # HTTP param, query, body
 - 셋이 구분되는건 알았지만, FastAPI로 구현하며 기본적으로 query로 작동되는것을 뒤늦게 알아 수정하기가 조금 곤란했다.

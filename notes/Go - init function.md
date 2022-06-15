@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-14 03:17
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - init function
 - Go언어는 항상 main() 함수로 시작

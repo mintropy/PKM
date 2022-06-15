@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-03-26 17:22
-tags : #🖥️Note/Python  
+tags : #🖥️/Python  
 
 # Docstring과 어노테이션
 - 코드를 문서화 하기 위해 주석 대신 docstring을 지향해야 함

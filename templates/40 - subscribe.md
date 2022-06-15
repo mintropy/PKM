@@ -1,9 +1,12 @@
 ---
-type : subscribe
-detail : 
-content_type :
+type : subscribes
 created : <% tp.date.now('YYYY-MM-DD hh:mm') %>
-tags : 📒Subscirbe
+tags : 📒
+keywords : []
+source : 
+author : 
 ---
+
+# Subscribe
 
 # <% tp.file.title %>

@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-12 09:26
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - for
 - Go에서 반복문은 for하나만 존재

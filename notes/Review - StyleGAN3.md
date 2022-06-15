@@ -6,7 +6,7 @@ content_type :
 
 [[AI]]
 created : 2022-05-09 16:21
-tags : #🖥️Note/AI/Review  
+tags : #🖥️/AI/Review  
 
 # Review - StyleGAN3
 - [[Paper - StyleGAN3]]

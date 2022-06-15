@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-14 03:05
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - 타입 변환
 - `strconv` 를 사용하여 변환

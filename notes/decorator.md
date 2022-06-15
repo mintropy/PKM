@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-04-23 16:35
-tags : #🖥️Note/Python 
+tags : #🖥️/Python 
 
 # decorator
 - PEP 318에서 함수와 메서드 기능을 쉽게 수정하기 위한 수단으로 소개

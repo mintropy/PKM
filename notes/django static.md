@@ -4,7 +4,7 @@ type : knowledges
 
 [[Python]]
 created : 2022-03-07 10:53
-tags : #🖥️Note #🖥️Note/Django 
+tags : #🖥️ #🖥️/Django 
 
 # django static
 - https://blog.hannal.com/2015/04/start_with_django_webframework_06/

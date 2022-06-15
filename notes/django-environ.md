@@ -4,7 +4,7 @@ type : knowledges
 
 [[Python]]
 created : 2022-03-06 22:18
-tags : #🖥️Note #🖥️Note/Django  
+tags : #🖥️ #🖥️/Django  
 
 # django-environ
 - https://django-environ.readthedocs.io/en/latest/

@@ -6,7 +6,7 @@ content_type : review
 
 [[AI]]
 created : 2022-03-08 15:36
-tags : #🖥️Note #🖥️Note/AI #🖥️Note/AI/Review 
+tags : #🖥️ #🖥️/AI #🖥️/AI/Review 
 
 # Review - YOLO
 - You Only Look Once: Unified, Real-Time Object Detection

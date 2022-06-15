@@ -8,4 +8,4 @@ annotation-target: Analyzing and Improving the Image Quality of StyleGAN.pdf
 ---
 
 [[AI]]
-**tags** : #🖥️Note/AI/Paper 
+**tags** : #🖥️/AI/Paper 

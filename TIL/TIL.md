@@ -1,3 +1,6 @@
+- links : [[Home]]
+- tags : 
+
 # TIL
 
 ```dataview

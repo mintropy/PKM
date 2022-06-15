@@ -6,7 +6,7 @@ content_type : note
 
 [[AI]]
 created : 2022-03-08 14:02
-tags : #🖥️Note #🖥️Note/AI #🖥️Note/AI/Note 
+tags : #🖥️ #🖥️/AI #🖥️/AI/Note 
 
 # Image Captioning
 - 입력 이미지에서 캡션(설명)을 만들어 내는 것

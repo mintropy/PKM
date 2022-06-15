@@ -1,5 +1,5 @@
 # Python
-**tags** : #🖥️Note #🖥️Note/DB
+**tags** : #🖥️ #🖥️/DB
 
 ## Python
 ```dataview

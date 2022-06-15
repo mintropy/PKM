@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-03-26 17:28
-tags : #🖥️Note/Python 
+tags : #🖥️/Python 
 
 # type hint
 - [python document](https://docs.python.org/ko/3/library/typing.html)

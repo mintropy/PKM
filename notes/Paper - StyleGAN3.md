@@ -8,4 +8,4 @@ annotation-target: Alias-Free Generative Adversarial Networks.pdf
 ---
 
 [[AI]]
-**tags** : #🖥️Note/AI/Paper 
+**tags** : #🖥️/AI/Paper 

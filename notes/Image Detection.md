@@ -6,7 +6,7 @@ content_type : note
 
 [[AI]]
 created : 2022-03-08 14:12
-tags : #🖥️Note #🖥️Note/AI #🖥️Note/AI/Note 
+tags : #🖥️ #🖥️/AI #🖥️/AI/Note 
 
 # Image Detection
 - Image 의 개별 객체가 아닌 다수의 객체를 찾아내는 문제

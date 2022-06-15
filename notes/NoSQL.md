@@ -6,7 +6,7 @@ content_type :
 
 [[DB]]
 created : 2022-04-24 14:44
-tags : #🖥️Note/DB
+tags : #🖥️/DB
 
 # NoSQL
 - 기존 DB의 한계를 넘어서기 위함

@@ -6,7 +6,7 @@ content_type :
 
 [[Docker]]
 created : 2022-03-23 13:17
-tags : #🖥️Note/Docker  
+tags : #🖥️/Docker  
 
 # Docker-Nginx
 - nginx 이미지 활용하여 구현 가능

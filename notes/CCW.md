@@ -6,7 +6,7 @@ content_type :
 
 [[algorithm]]
 created : 2022-03-25 21:41
-tags : #🖥️Note/algorithm 
+tags : #🖥️/algorithm 
 
 # CCW
 - CCW(Counter Clockwise)

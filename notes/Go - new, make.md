@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-12 09:21
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - new, make
 - new : 임의의 타입을 생성

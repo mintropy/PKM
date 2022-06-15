@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-03-28 20:57
-tags : #🖥️Note/Django 
+tags : #🖥️/Django 
 
 # ORM
 

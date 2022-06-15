@@ -6,7 +6,7 @@ content_type :
 
 [[Java]]
 created : 2022-06-13 03:54
-tags : #🖥️Note/Java 
+tags : #🖥️/Java 
 
 # Java - 변수와 자료형
 - 변수는 `int a;`, `Sting b;`와 같은 형태로 선언

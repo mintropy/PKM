@@ -6,6 +6,6 @@ content_type :
 
 [[Network]]
 created : 2022-04-17 17:38
-tags : #🖥️Note/Network 
+tags : #🖥️/Network 
 
 # TCP

@@ -16,12 +16,12 @@ kanban-plugin: basic
 - [ ] [[Java]]
 
 
-## Pused
+## Paused
 
 - [ ] [[배포]]
 
 
-## Finished
+## completed
 
 **Complete**
 - [x] [[AI-image]]

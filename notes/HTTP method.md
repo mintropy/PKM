@@ -6,7 +6,7 @@ content_type :
 
 [[Network]]
 created : 2022-05-29 16:35
-tags : #🖥️Note/Network 
+tags : #🖥️/Network 
 
 # HTTP method
 - HTTP 요청 매서드, 주어진 리소스에 수행하길 워하는 행동

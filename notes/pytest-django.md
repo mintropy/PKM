@@ -4,7 +4,7 @@ type : knowledges
 
 [[Python]]
 created : 2022-03-07 10:58
-tags : #🖥️Note #🖥️Note/Django 
+tags : #🖥️ #🖥️/Django 
 
 # pytest-django
 - https://jadehan.tistory.com/4

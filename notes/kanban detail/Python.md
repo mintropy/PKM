@@ -3,7 +3,7 @@ type :
 ---
 
 created : 2022-06-11 20:31
-tags : #📌TIL_List #🖥️Note/Python 
+tags : #📌TIL_List #🖥️/Python 
 
 # Python 
 - [[Python versions]]

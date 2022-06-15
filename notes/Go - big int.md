@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-11 10:34
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - big int
 - big int : $2^53 -1 = 9007199254740989$보다 큰 정수

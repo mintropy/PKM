@@ -6,7 +6,7 @@ content_type :
 
 [[Network]]
 created : 2022-06-01 11:08
-tags : #🖥️Note/Network 
+tags : #🖥️/Network 
 
 # HTTP status code
 - 상태 코드는 크게 다섯가지로 구분

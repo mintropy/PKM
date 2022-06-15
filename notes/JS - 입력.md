@@ -6,7 +6,7 @@ content_type :
 
 [[JavaScript]]
 created : 2022-06-11 11:11
-tags : #🖥️Note/JS 
+tags : #🖥️/JS 
 
 # JS - 입력
 ```javascript

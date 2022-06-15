@@ -6,7 +6,7 @@ content_type :
 
 [[AI]]
 created : 2022-03-09 16:50
-tags : #🖥️Note/AI/Review  
+tags : #🖥️/AI/Review  
 
 # Review - BERT
 - Pre-training of Deep Bidirectional Transformers for Language Understanding

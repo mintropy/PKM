@@ -6,7 +6,7 @@ content_type :
 
 [[Network]]
 created : 2022-03-23 13:13
-tags : #🖥️Note/Network  
+tags : #🖥️/Network  
 
 # Nginx
 -   Nginx는 웹 서버 소프트웨어, 리버시 프록시 기능을 가짐

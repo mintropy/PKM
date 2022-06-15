@@ -6,7 +6,7 @@ content_type :
 
 [[Go]]
 created : 2022-06-14 01:18
-tags : #🖥️Note/Go 
+tags : #🖥️/Go 
 
 # Go - string
 - 문자열 선언은 큰 따옴표, 백스쿼트 사용

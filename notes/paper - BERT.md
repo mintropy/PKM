@@ -8,7 +8,7 @@ annotation-target: BERT.pdf
 ---
 
 [[AI]]
-**tags** : #🖥️Note/AI/Paper 
+**tags** : #🖥️/AI/Paper 
 
 
 >%%
