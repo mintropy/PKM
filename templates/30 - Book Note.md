@@ -14,7 +14,7 @@ rate:
 
 # [[Books]]
 created : <% tp.file.creation_date() %>
-tags : #📔Book 
+tags : #🖥️/📔 
 
 # <% tp.file.title %> Overview
 
