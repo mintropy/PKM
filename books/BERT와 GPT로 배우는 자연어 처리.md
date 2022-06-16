@@ -11,7 +11,7 @@ rate:
 
 # [[Books]]
 created : 2022-06-01 18:01
-tags : #📔Book 
+tags : #🖥️/📔 
 
 # BERT와 GPT로 배우는 자연어 처리 Overview
 

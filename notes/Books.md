@@ -1,5 +1,5 @@
 # Books
-tags : #📔Book 
+tags : #🖥️/📔 
 
 ```mermaid
 graph LR

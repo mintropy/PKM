@@ -45,5 +45,37 @@ func main() {
 
 - 프로그램 종료 전 `out.Flush()` 를 꼭 실행해야 함
 
+### bufio 활용
+- tags : #✅/🟩
+
+```go
+var (
+	sc *bufio.Scanner
+	wr *bufio.Writer
+)
+
+func init() {
+	sc = bufio.NewScanner(os.Stdin)
+	sc.Split(bufio.ScanWords)
+
+	wr = bufio.NewWriter(os.Stdout)
+}
+
+func scanInt() int {
+	sc.Scan()
+	ret, _ := strconv.Atoi(sc.Text())
+	return ret
+}
+
+func main() {
+	defer wr.Flush()
+	x := scanInt()
+	wr.WriteString(strconv.Itoa(x))
+}
+```
+
+- init함수에서 sc, wr을 바로 생성하면 오류 발생, init함수에서는 새로운 변수 지정이 안되는 것인지 확인할 필요 있음
+- 각 세부 함수들을 조금 더 공부할 필요가 있을 듯 함
+
 # 참조
 - [golang fmt 패키지를 이용한 표준 입출력](https://dev-yakuza.posstree.com/ko/golang/fmt/)

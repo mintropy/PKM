@@ -3,7 +3,7 @@ type :
 ---
 
 created : 2022-06-11 20:54
-tags : #📌TIL_List 
+tags : #📌 
 
 # Interview 
 - [[interview-python]]

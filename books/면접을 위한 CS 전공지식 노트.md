@@ -11,7 +11,7 @@ rate:
 
 # [[Books]]
 created : 2022-06-09 10:47
-tags : #📔Book 
+tags : #🖥️/📔 
 
 # 면접을 위한 CS 전공지식 노트 Overview
 

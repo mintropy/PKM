@@ -3,7 +3,7 @@ type :
 ---
 
 created : 2022-06-11 21:49
-tags : #📌TIL_List #🖥️/Go 
+tags : #📌 #🖥️/Go 
 
 # Go 
 

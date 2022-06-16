@@ -3,7 +3,7 @@ type :
 ---
 
 created : 2022-03-06 22:16
-tags : #📌TIL_List #🖥️/Django 
+tags : #📌 #🖥️/Django 
 
 # Django 
 ## About Django
