@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-04-23 13:28
-tags : #🖥️/Python 
+tags : #🖥️/⌨️ 
 
 # py, pyc
 - python파일의 확장자는 `.py`, `.pyc`, `.pyo` 등이 있음

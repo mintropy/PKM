@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-03-26 17:28
-tags : #🖥️/Python  
+tags : #🖥️/⌨️  
 
 # Python versions
 ## 3.10

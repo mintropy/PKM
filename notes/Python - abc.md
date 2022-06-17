@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-06-13 08:53
-tags : #🖥️/Python 
+tags : #🖥️/⌨️ 
 
 # Python - abc
 - 추상화 클래스(abstract class)

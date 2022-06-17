@@ -1,9 +1,13 @@
 ---
-type : 
+type : MOC
+created : 2022-03-06 22:16
+tags : 🗺️
 ---
 
-created : 2022-03-06 22:16
-tags : #📌 #🖥️/Django 
+- links : [[Home]]
+- tags : [[learning]] - [[programming]]
+
+---
 
 # Django 
 ## About Django

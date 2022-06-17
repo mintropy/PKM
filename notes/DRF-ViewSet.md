@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-06-05 15:49
-tags : #🖥️/Python  #🖥️/Django 
+tags : #🖥️/⌨️  #🖥️/Django 
 
 # DRF-ViewSet
 - ViesSets

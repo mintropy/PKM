@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-05-31 09:47
-tags : #🖥️/Python 
+tags : #🖥️/⌨️ 
 
 # FastAPI
 - FastAPI 문서

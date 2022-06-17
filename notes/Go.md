@@ -1,9 +1,13 @@
 ---
-type : 
+type : MOC
+created : 2022-06-11 21:49
+tags : 🗺️
 ---
 
-created : 2022-06-11 21:49
-tags : #📌 #🖥️/Go 
+- links : [[Home]]
+- tags : [[learning]] - [[programming]]
+
+---
 
 # Go 
 

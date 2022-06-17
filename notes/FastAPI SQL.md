@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-05-31 10:53
-tags : #🖥️/Python 
+tags : #🖥️/⌨️ 
 
 # FastAPI SQL
 - [FastAPI SQL database](https://fastapi.tiangolo.com/ko/tutorial/sql-databases/)

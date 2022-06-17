@@ -4,7 +4,7 @@ type : knowledges
 
 [[Python]]
 created : 2022-03-06 22:35
-tags : #🖥️ #🖥️/Python
+tags : #🖥️ #🖥️/⌨️
 
 # pre-commit
 - https://pre-commit.com/

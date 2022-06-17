@@ -8,13 +8,14 @@
 	- TIL notes의 상세 태그는 사용하지 않음
 - 💻 ==Notes==
 	- 📔 ==Books==
+	- 📝==Books detail==
 	- ⌨️==Programmings==
 	- 🔖==Bookmarks | Subscribes==
 - 🗺️==Maps of Content==
 - ✅ ==Todo==
 	- 🟥==Hard==
 	- 🟧==Moderate==
-	- 🟨==Involved==
+	- 🟨==Not Now==
 	- 🟩==Easy==
 	- 🟦==Done==
 - 🕸️==Graph Groupings==

@@ -4,7 +4,7 @@ type : knowledges
 
 [[Python]]
 created : 2022-03-07 11:47
-tags : #🖥️ #🖥️/Python 
+tags : #🖥️ #🖥️/⌨️ 
 
 # coverage
 - https://coverage.readthedocs.io/en/6.3.2/

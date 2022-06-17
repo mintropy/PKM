@@ -6,7 +6,7 @@ content_type :
 
 [[Python]]
 created : 2022-05-31 11:50
-tags : #🖥️/Python 
+tags : #🖥️/⌨️ 
 
 # FastAPI 대규모 파일 구조
 - Flask나 FastAPI를 시작할 때 두려웠던 부분이 내가 스스로 파일 구조를 제작하고 구성해야한다는 것이였다.
