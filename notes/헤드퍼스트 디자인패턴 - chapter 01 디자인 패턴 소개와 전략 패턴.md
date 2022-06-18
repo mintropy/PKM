@@ -6,7 +6,7 @@ keywords : [디자인패턴, 전략패턴]
 description : 
 ---
 
-# 헤드퍼스트 디자인패턴 - chapter 00 들어가며
+# 헤드퍼스트 디자인패턴 - chapter 01 디자인 패턴 소개와 전략 패턴
 
 ## 오리 시뮬레이션 게임, SimUduck
 
