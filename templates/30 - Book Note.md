@@ -12,11 +12,14 @@ keywords : []
 rate: 
 ---
 
-# [[Books]]
-created : <% tp.file.creation_date() %>
-tags : #🖥️/📔 
+
+- links : 
+- tags : [[Books]] -[[learning]]
+
+---
 
 # <% tp.file.title %> Overview
+
 
 
 # Conclusion

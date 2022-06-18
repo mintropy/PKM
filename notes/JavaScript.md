@@ -12,6 +12,7 @@ tags : 🗺️
 # JavaScript 
 - JS와 Node.js를 모두 포함하는 문서
 
+- [[JS - 변수와 자료형]]
+
 - [[JS - 입력]]
 
-- [[JS - BigInt]]

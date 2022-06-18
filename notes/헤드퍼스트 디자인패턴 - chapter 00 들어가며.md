@@ -1,14 +1,15 @@
 ---
 type : knowledges
-detail : 
-content_type :
----
-
-[[]]
 created : 2022-06-13 05:01
 tags : #🖥️
+keywords : [디자인패턴, 전략패턴]
+description : 
+---
 
 # 헤드퍼스트 디자인패턴 - chapter 00 들어가며
+
+## 오리 시뮬레이션 게임, SimUduck
+
 - SimuDuck이라는 오리 시뮬레이션 게임, Duck 슈퍼클래스를 만들고 클래스를 확장해서 다른 종류의 오리 만듬
 
 ```mermaid
@@ -169,6 +170,7 @@ public abstract class Duck {
 - 위를 기반으로 구현
 
 ```java
+// MallardDuck.java
 public class MallardDuck extends Duck {
 	public MallardDuck() {
 		quackBehavior = new Quack();
@@ -182,5 +184,210 @@ public class MallardDuck extends Duck {
 
 - Duck 클래스를 상속받은 MallardDuck 클래스 생성
 
-# Python code
+## 오리 코드 테스트
 
+```java
+// Duck.java
+public abstract class Duck {
+	FlyBehavior flyBehavior;
+	QuackBehavior quackBehavior;
+
+	public Duck() {}
+	public abstract void display();
+	public void performFly() {
+		flyBehavior.fly();
+	}
+	public void performQuack() {
+		quackBehavior.quack();
+	}
+	public void swim() {
+		System.out.println("모든 오리는 물에 뜹니다. 가짜 오리도 뜨죠");
+	}
+}
+
+public interface FlyBehavior {
+	public void fly();
+}
+
+public interface QuackBehavior {
+	public void quack();
+}
+
+// FlyWithWings.java
+public class FlyWithWings implements FlyBehavior {
+	public void fly() {
+		System.out.println("날고 있어요!!");
+	}
+}
+
+// FlyNoWay.java
+public class FlyNoWay implements FlyBehavior {
+	public void fly() {
+		System.out.println("저는 못 날아요");
+	}
+}
+
+// Quack.java
+public class Quack implements QuackBehavior {
+	public void quack() {
+		Systme.out.println("꽥");
+	}
+}
+
+// MuteQuack.java
+public class MuteQuack implements QuackBehavior {
+	public void quack() {
+		System.out.println("<<조용~>>");
+	}
+}
+
+// Squeak.java
+public class Squeak implements QuackBehavior {
+	public void queack() {
+		System.out.println("삑");
+	}
+}
+```
+
+```java
+public class MiniDuckSimulator {
+	public static void main(String[] args) {
+		Duck mallard = new MallardDuck();
+		mallard.performQuack();
+		mallard.performFly();
+	}
+}
+```
+
+## 동적으로 행동 지정하기
+- 동적으로 만든 행동을 활용하기
+- 오리 행동 형식을 생성자에서 인스턴스를 만드는 것이 아닌 Duck의 서브클래스에서 세터 메소드(setter method)를 호출하는 방법?
+
+```java
+public void setFlyBehavior(FlyBehavior fb) {
+	flyBehavior = fb;
+}
+
+public void setQuackBehavior(QuackBehavior qb) {
+	quackBehavior = qb;
+}
+```
+
+```mermaid
+classDiagram
+class Duck {
+	FlyBehavior flyBehavior
+	QuackBehavior quackBehavior
+	performQuack()
+	swim()
+	display()
+	performFly()
+	setFlyBehavior()
+	setQuackBehavior()
+}
+```
+
+- Duck 클래스에 메소드 2개 추가
+	- 이 두 메소드를 호출하면 언제든지 행동을 즉석으로 바꿀 수 있음
+
+```java
+// ModelDuck.java
+public class ModelDuck extends Duck {
+	public ModelDuck() {
+		flyBehavior = new FlyNoWay();
+		quackBehavior = new Quack();
+	}
+
+	public void display() {
+		System.out.println("저는 모형 오리입니다");
+	}
+}
+```
+
+```java
+// FlyRocketPowered.java
+public class FlyRocketPowered implements FlyBehavior {
+	public void fly() {
+		Systme.out.println("로켓 추진으로 날아갑니다");
+	}
+}
+```
+
+```java
+// MiniDuckSimulator.java
+public class MiniDuckSimulator {
+	public static void main(String[] args) {
+		Duck mallard = new MallardDuck();
+		mallard.performQuack();
+		mallard.perfomrFly();
+
+		// 코드 추가
+		Duck model = new ModelDuck();
+		model.performFly();
+		model.setFlyBehavior(new FlyRockerPowered());
+		model.perfomrFly();
+	}
+}
+```
+
+- `ModelDuck`을 추가하고, 로켓 추진 기능 부여
+	- `PerformFly()`를 처음 호출하면 기본 메소드인 `FlyNoWay()`가 호출
+	- 이후 `setFlyBehavior()`를 통하여 로켓 추진 부여
+
+```mermaid
+flowchart LR
+	subgraph client
+		direction BT
+		MallardDuck --> Duck
+		RedheadDuck --> Duck
+		RubberDuck --> Duck
+		DecoyDuck --> Duck
+	end
+	subgraph fly
+		direction BT
+		FlyWithWings -.-> FlyBehavior
+		FlyNoWay -.-> FlyBehavior
+	end
+	subgraph quack
+		direction BT
+		Quack -.-> QuackBehavior
+		Squeak -.-> QuackBehavior
+		MuteQuack -.-> QuackBehavior
+	end
+	Duck ==> FlyBehavior
+	Duck ==> QuackBehavior
+```
+
+- 오리의 행동들을 일련의 행동으로 생각하는 대신, 알고리즘군(family of algorithms)으로 생각
+- 클래스 사이 관계도 고민하기
+	- 클래스 사이가 어떤 관계인지, A는 B이다, A에는 B가 있다, A가 B를 구현한다 등…
+- A에는 B가 있다 관계
+	- 각 오리에 FlyBehavior, QuackBehavior가 있음
+	- 이런 방식으로 두 클래스를 합치는 것을 `구성`을 이용한다고 부름
+	- 오르 클래스에서 행동을 상속받는 대신, 올바른 행동 객체로 구성되어 행동을 부여 받음
+- **디자인 원칙** : 상속보다는 구성을 활용한다
+
+> [!note] 전략 패턴(Strategy Pattern)
+> 알고리즘군을 정의하고 캡슐화해서 각각의 알고리즘 군을 수정해서 쓸 수 있게 해줌
+> 전략 패턴을 사용하면 클라이언트로부터 알고리즘을 분리해서 독립적으로 변경할 수 있음
+
+## 디자인 패턴 퍼즐
+
+```mermaid
+flowchart LR
+subgraph client
+	direction BT
+	Queen --> Character[Character<br>setWeapon]
+	King --> Character
+	Troll --> Character
+	Knight --> Character
+end
+subgraph Weapon
+	direction BT
+	KnifeBehavior -.-> WeaponBehavior
+	BowAndArrowBehavior -.-> WeaponBehavior
+	AxeBehavior -.-> WeaponBehavior
+	SwordBehavior -.-> WeaponBehavior
+end
+Character ==> WeaponBehavior
+```

@@ -1,12 +1,10 @@
 ---
 type : knowledges
-detail : 
-content_type :
----
-
-[[Go]]
 created : 2022-06-14 01:18
-tags : #🖥️/Go 
+tags : 🖥️/⌨️
+keywords : [Go, 자료형]
+description : 
+---
 
 # Go - string
 - 문자열 선언은 큰 따옴표, 백스쿼트 사용
@@ -27,6 +25,8 @@ s2 := `string`
 - 문자열 길이
 	- `len`을 사용하면 바이트수 반환
 	- `unicode/utf8/RuneCountInString`을 활용하거나 배열로 바꾸어 구해야함
+
+---
 
 # 참조
 - [go 문자열 다루기](https://leo-bb.tistory.com/60)

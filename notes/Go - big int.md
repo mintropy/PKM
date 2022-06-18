@@ -1,12 +1,10 @@
 ---
 type : knowledges
-detail : 
-content_type :
----
-
-[[Go]]
 created : 2022-06-11 10:34
-tags : #🖥️/Go 
+tags : 🖥️/⌨️
+keywords : [Go, 자료형]
+description : 
+---
 
 # Go - big int
 - big int : $2^53 -1 = 9007199254740989$보다 큰 정수
@@ -48,6 +46,8 @@ func main() {
 - `new(big.Int)`를 통하여 생성하면 비어있는 값으로 생성됨
 - 만약 특정 값을 기반으로 연산을 하거나 한다면 기준이 되는 수가 필요함
 - 이 때 `num := big.NewInt(0)`와 같은 방식으로 초기화하여 생성할 수 있음
+
+---
 
 # 참조
 - [MDN - BigInt](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/BigInt)

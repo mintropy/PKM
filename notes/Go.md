@@ -11,13 +11,10 @@ tags : 🗺️
 
 # Go 
 
-- [[Go - 입출력]]
+- [[Go - 변수와 자료형]]
 
-- [[Go - new, make]]
+- [[Go - 입출력]
+
 - [[Go - for]]
-
-- [[Go - string]]
-- [[Go - big int]]
-- [[Go - 타입 변환]]
 
 - [[Go - init function]]

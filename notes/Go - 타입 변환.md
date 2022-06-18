@@ -1,12 +1,10 @@
 ---
 type : knowledges
-detail : 
-content_type :
----
-
-[[Go]]
 created : 2022-06-14 03:05
-tags : #🖥️/Go 
+tags : 🖥️/⌨️
+keywords : [Go, 자료형]
+description : 
+---
 
 # Go - 타입 변환
 - `strconv` 를 사용하여 변환
@@ -19,6 +17,8 @@ tags : #🖥️/Go
 ## 숫자 > 문자열
 - `Itoa`
 - `FormatInt`
+
+---
 
 # 참조
 - [golang - 변환](https://jacking75.github.io/go_convert/)
