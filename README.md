@@ -1,3 +1,10 @@
+# PKM을 더이상 활용하지 않습니다
+- 학습한 내용은 [블로그](https://mintropy.tistory.com/)
+- PKM을 생산 및 관리하는 과정에서 개인적인 정보, 개발 외적인 정보가 많이 포함되어 public repository로 관리하기 힘든 부분이 있음
+- 또한, PKM으로 해결된다고 생각하여 블로그 게시글이나, 다른 방법에서의 정리 및 공유에 소홀해진 것 같음
+
+---
+
 # PKM(Personal Knowledge Management)
 - **Obsidian.md** 로 작성되었습니다.
 	- 전반적인 파일 구조나 markdown이 보이는게 이상한가요?
