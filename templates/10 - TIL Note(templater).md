@@ -7,8 +7,5 @@ summary:
 ---
 
 # [[TIL]]
-
-
-
 # TASKS
-- [ ] 
+- [ ]
