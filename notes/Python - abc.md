@@ -6,7 +6,6 @@ detail :
 content_type :
 ---
 
-
 # Python - abc
 - 추상화 클래스(abstract class)
 - 미구현 추상메소드를 한 개 이상 가지며, 자식 클래스에서 추상 메소드를 반드시 구현하도록 강제
