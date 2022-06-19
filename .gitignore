@@ -1,6 +1,10 @@
+# obsidian
 .obsidian/
-logseq/
-pages/
 private/
 subscribes/
 zettelkasten/
+
+# logseq
+logseq/
+pages/
+journals/
